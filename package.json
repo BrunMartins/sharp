@@ -124,7 +124,7 @@
     "vips"
   ],
   "dependencies": {
-    "color": "https://github.com/BrunMartins/color#master".
+    "color": "https://github.com/BrunMartins/color#master",
     "detect-libc": "^1.0.3",
     "node-addon-api": "^4.2.0",
     "prebuild-install": "^7.0.0",
